@@ -40,7 +40,7 @@ Graduate Electrical Engineer specializing in Embedded Systems, Real-Time Systems
 ---
 
 ### 🎓 Education
-* **M.S. in Electrical Engineering** | California State University, Los Angeles (Expected June 2026).
+* **M.S. in Electrical Engineering** | California State University, Los Angeles.
 * **B.S. in Electrical Engineering** | California State University, Los Angeles.
 * **A.S. in Mathematics** | El Camino College.
 
