@@ -1,6 +1,6 @@
 # Ugonna Ejimole | Embedded Engineer (Electrical Engineer M.S)
 
-Graduate Electrical Engineer specializing in **Embedded Systems**, **Real-Time Systems (RTOS)**, and **Hardware/Software Integration**. I bridge the gap between high-level software and low-level hardware, bringing disciplined engineering rigor from mission-critical infrastructure environments to embedded development.
+Graduate Electrical Engineer specializing in Embedded Systems, Real-Time Systems (RTOS), and Hardware/Software Integration. I bridge the gap between high-level software and low-level hardware, bringing disciplined engineering rigor from mission-critical infrastructure environments to embedded development.
 
 ---
 
@@ -17,10 +17,10 @@ Graduate Electrical Engineer specializing in **Embedded Systems**, **Real-Time S
 
 #### **MIPS32 Multicycle CPU**
 * Engineered a modular MIPS32 CPU featuring a control FSM, ALU, and register file using **Verilog**.
-* Synthesized to an **Intel MAX 10 FPGA** and validated hardware reliability with automated assembly self-checking test benches.
+* Synthesized to an Intel MAX 10 FPGA and validated hardware reliability with automated assembly self-checking test benches.
 
 #### **SmartFan Distributed System**
-* Developed a networked system using three **PSoC5 microcontrollers** with real-time temperature monitoring and dynamic speed adjustment.
+* Developed a networked system using three PSoC5 microcontrollers with real-time temperature monitoring and dynamic speed adjustment.
 * Implemented sensor integration and inter-processor communication to demonstrate advanced embedded control.
 
 #### **ECG Acquisition System**
@@ -31,7 +31,7 @@ Graduate Electrical Engineer specializing in **Embedded Systems**, **Real-Time S
 
 ### 💼 Professional Experience
 **Equinix** | *IBX Customer Operations Technician IV* | 2019 – Present
-* Maintaining **99.999% uptime** for mission-critical data center systems.
+* Maintaining 99.999% uptime for mission-critical data center systems.
 * Leading large-scale network upgrades and implementing Layer 1-3 testing protocols to ensure network reliability.
 
 **AT&T** | *Installation Technician* | 2014 – 2019
