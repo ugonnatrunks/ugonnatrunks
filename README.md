@@ -16,7 +16,7 @@ Graduate Electrical Engineer specializing in Embedded Systems, Real-Time Systems
 ### 🚀 Featured Engineering Projects
 
 #### **MIPS32 Multicycle CPU**
-* Engineered a modular MIPS32 CPU featuring a control FSM, ALU, and register file using **Verilog**.
+* Engineered a modular MIPS32 CPU featuring a control FSM, ALU, and register file using Verilog.
 * Synthesized to an Intel MAX 10 FPGA and validated hardware reliability with automated assembly self-checking test benches.
 
 #### **SmartFan Distributed System**
